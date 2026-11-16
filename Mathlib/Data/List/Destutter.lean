@@ -21,7 +21,7 @@ Note that we make no guarantees of being the longest sublist with this property;
 ## Main statements
 
 * `List.destutter_sublist`: `l.destutter` is a sublist of `l`.
-* `List.isChain_destutter'`: `l.destutter` satisfies `IsChain R`.
+* `List.isChain_destutter`: `l.destutter` satisfies `IsChain R`.
 * Analogies of these theorems for `List.destutter'`, which is the `destutter` equivalent of `Chain`.
 
 ## Tags
